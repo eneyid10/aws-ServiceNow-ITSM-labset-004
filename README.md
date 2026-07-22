@@ -688,4 +688,4 @@ lab-04-itsm-aws/
 ```
 ---
 
-*Part of the AWS Cloud Security & Operations Portfolio Series — hands-on labs documenting real-world cloud infrastructure, identity management, and information security practice on AWS.*
+*Authored by Eneyi as part of the AWS Cloud Security & Operations Portfolio Series — hands-on labs documenting real-world cloud infrastructure, identity management, and information security practice on AWS.*
